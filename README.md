@@ -1,4 +1,4 @@
-# FlappyBird Clone (Python + Pygame)
+# Flappybird Clone (Python + Pygame)
 
 A fun, visually polished clone of the classic **Flappy Bird** game built using Python and Pygame. This version includes animated clouds, scrolling ground, pipe obstacles, score tracking, and a session-based high score system.
 
