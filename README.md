@@ -26,7 +26,7 @@ A fun, visually polished clone of the classic **Flappy Bird** game built using P
 
 ## 📁 Project Structure
 
-##Screenshots 📸
+##Screenshots 📸 (3)
 
 ![image](https://github.com/user-attachments/assets/2ce4ea1f-5149-41ec-ad52-33ae5c24750c)
 
