@@ -28,8 +28,12 @@ A fun, visually polished clone of the classic **Flappy Bird** game built using P
 
 ##Screenshots 📸
 
+![image](https://github.com/user-attachments/assets/2ce4ea1f-5149-41ec-ad52-33ae5c24750c)
 
 ![image](https://github.com/user-attachments/assets/1aeca050-e877-44f5-91c8-b9b8e0ecbf29)
+
+![image](https://github.com/user-attachments/assets/d1d69113-10f3-41ec-9d9c-878518021ba3)
+
 
 
 ## 🧠 About the Project
